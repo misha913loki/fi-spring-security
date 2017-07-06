@@ -1,0 +1,13 @@
+body {
+    font-family: sans;
+    font-size: 2em;
+}
+
+p.logout {
+    font-weight: bold;
+    color: red;
+}
+
+div.logout {
+    float: right;
+}
